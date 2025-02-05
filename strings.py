@@ -15,7 +15,7 @@ You shoot yourself in the head (6 - number of rounds) times.
 If you have spent all the shots and survived, you have won, if not, you have lost.
 
 To shoot, press Enter
-To leave the game, print 0
+To leave the game, choose 0 rounds in the revolver
 """
 
 split_ = '~'*100
